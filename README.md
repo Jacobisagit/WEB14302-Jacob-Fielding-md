@@ -12,7 +12,7 @@
 
 [TERM 3 ART COIN FINAL CONCEPT](https://github.com/Jacobisagit/WEB14302-Jacob-Fielding-md/blob/master/ADVANCED%20WEB%20TECHNOLOGY%20FINAL.pdf)
 
-[TERM 3 Pitch Presentation]
+[TERM 3 Pitch Presentation](https://github.com/Jacobisagit/WEB14302-Jacob-Fielding-md/blob/master/ART%20COIN%20PRESENTATION.pdf)
 
 [Xd Wire Frames and Final Protoype](https://github.com/Jacobisagit/WEB14302-Jacob-Fielding-md/blob/master/ALL%20THREE%20WIRE%20FRAMES%20ART%20COIN%20FINAL%203.xd)
 
