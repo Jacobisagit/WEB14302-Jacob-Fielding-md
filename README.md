@@ -10,7 +10,7 @@
 
 ## TERM 3
 
-[TERM 3 ART COIN FINAL CONCEPT]
+[TERM 3 ART COIN FINAL CONCEPT](https://github.com/Jacobisagit/WEB14302-Jacob-Fielding-md/blob/master/ADVANCED%20WEB%20TECHNOLOGY%20FINAL.pdf)
 
 [TERM 3 Pitch Presentation]
 
