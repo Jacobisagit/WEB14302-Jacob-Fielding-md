@@ -14,4 +14,4 @@
 
 [TERM 3 Pitch Presentation]
 
-[500 Word Report Term 3 RAW DOCUMENT]
+[500 Word Report Term 3](https://github.com/Jacobisagit/WEB14302-Jacob-Fielding-md/blob/master/TERM%203%20500%20Word%20Report%20Final.pdf)
